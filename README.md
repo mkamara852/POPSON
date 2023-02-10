@@ -1,4 +1,4 @@
 # POPSON
 
 Am a student of unimtech studing computer science
-![cover art] ()
+![cover art](./popson.PNG)
